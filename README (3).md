@@ -1,8 +1,8 @@
-# Parameter-Optimization-102103415
+# Parameter-Optimization-102103414
 
-## Akshay Khanna
+## Aparna Singh
 
-## 102103415
+## 102103414
 
 Group:3CO15
 ---
